@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+Just another repository
 
 Hi Human,
 I like java, tcl, python and android.
